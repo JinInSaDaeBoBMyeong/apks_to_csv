@@ -8,6 +8,7 @@
 # malcsv.py
   악성 앱들에 대한 csv 파일 정리
   hash값들(md5, sha1, sha256) + family
+  대신 패밀리로 분류하는 조건이 내부 디렉토리에 따라 다르므로 주의 필요
 # norcsv.py
   정상 앱들에 대한 csv 파일 정리
   hash값들(md5, sha1, sha256)
